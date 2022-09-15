@@ -12,7 +12,9 @@ It is authored by [Jiri Kukacka](https://ies.fsv.cuni.cz/en/staff/kukacka). Ques
 
 ### Repository structure
 
-* `BTC_sample.R`    to be added: master file: it provides a sample R code for an illustrative replication of the results for BTC (see Tab. 1 in the paper)
+* `BTC_sample.R`    master file: it provides a sample R code for an illustrative replication of the results for BTC (see Tab. 1 in the paper)
+
+* `src.R`           contains additional functions
 
 * `BTC.csv`         original dataset for Bitcoin
 
