@@ -8,23 +8,20 @@ This codebase is using the R language, and it is initialized as a Git.
 
 It is authored by [Jiri Kukacka](https://ies.fsv.cuni.cz/en/staff/kukacka). Question can be directed to [jiri.kukacka@fsv.cuni.cz](jiri.kukacka@fsv.cuni.cz).
 
+For a convenient download of the code and data, click "Code" (green button) and "Download ZIP".
+
 ---
 
 ### Repository structure
 
-* `BTC_sample.R`    master file: it provides a sample R code for an illustrative replication of the results for BTC (see Tab. 1 in the paper)
+* `BTC_sample.R` ... master file: it provides a sample R code for an illustrative replication of the results for BTC (see Tab. 1 in the paper) together with useful functions
 
-* `src.R`           contains additional functions
+* `data/BTC.csv` ... original dataset for Bitcoin
 
-* `BTC.csv`         original dataset for Bitcoin
+* `data/LTC.csv` ... original dataset for Litecoin
 
-* `LTC.csv`         original dataset for Litecoin
+* `data/ETH.csv` ... original dataset for Ethereum
 
-* `ETH.csv`         original dataset for Ethereum
+* `data/XPR.csv` ... original dataset for XPR by Ripple
 
-* `XPR.csv`         original dataset for XPR by Ripple
-
-* `DOGE.csv`        original dataset for Dogecoin
-
-
-
+* `data/DOGE.csv` ... original dataset for Dogecoin
